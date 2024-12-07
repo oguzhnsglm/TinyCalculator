@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TinyCalculator", "TinyCalculator\TinyCalculator.csproj", "{64832D43-9354-4A5B-AD27-3841704B1370}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TinyCalculatorTests", "TinyCaclulatorTest\TinyCalculatorTests.csproj", "{693CC185-B8DC-4A9C-A36E-07C5E9BDA9B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64832D43-9354-4A5B-AD27-3841704B1370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64832D43-9354-4A5B-AD27-3841704B1370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64832D43-9354-4A5B-AD27-3841704B1370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64832D43-9354-4A5B-AD27-3841704B1370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693CC185-B8DC-4A9C-A36E-07C5E9BDA9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693CC185-B8DC-4A9C-A36E-07C5E9BDA9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693CC185-B8DC-4A9C-A36E-07C5E9BDA9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693CC185-B8DC-4A9C-A36E-07C5E9BDA9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2135F000-A0AD-4E40-BB30-7956AC892B7E}
+	EndGlobalSection
+EndGlobal
