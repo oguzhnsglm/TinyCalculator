@@ -32,15 +32,8 @@ Projede MSTest framework'ü kullanılarak birim testler yazılmıştır.
 Testler arasında:
 
 ViewModel birim testleri
+
 CalculateCommand çalışabilirlik testleri
-PropertyChanged olayının doğrulanması bulunur.
-
-
-💻 Kullanım
-
-Matematiksel bir ifade girin (örneğin, 5+3).
-Hesapla butonuna tıklayın.
-Sonuç, Sonuç etiketi altında görünecektir.
 
 
 📂 Proje Dosyaları
